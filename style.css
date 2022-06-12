@@ -1,0 +1,14 @@
+.title-main {
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  color: #191919;
+  font-family: KlavikaWebCondensed, "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  font-weight: 700;
+}
+.rankings-athlete h4 {
+  letter-spacing: 0.2px;
+  color: #d20a0a;
+  font: 700 14px/2 KlavikaWebCondensed, "Arial Narrow", Arial, sans-serif;
+  font-stretch: condensed;
+}
